@@ -1,7 +1,7 @@
 # hola
-#Hola  soy Fridel
+#Hola  soy Leandro Jesús Rodríguez Orozco
 
-Hola soy fridel, docente de la universidad catolica boliviana, estoy cursando Introduccion a la programacion
+Hola soy Leandro, estudio Ing. Mecatrónica en la UCB Tarija.
 
 
 
