@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="500" />
     <h1 align="center">Hola 👋, soy Leandro</h1>
-    <h3 align="center"-Estudie en el colegio José Manuel Belgrano.
+    
 
-        YouDevs.</h3>
+      
 </div>
 
 
@@ -22,9 +22,13 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre Mí :
+
+- 🐼 Mi nombre completo es Leandro Jesús Rodríguez Orozco
 
 - 🎼 Mis hobbies son dibujar y tocar la guitarra.
+
+- 📚 Estudie en el colegio José Manuel Belgrano.
 
 - 🏫 En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
 
