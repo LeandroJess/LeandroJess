@@ -1,14 +1,21 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="500" />
     <h1 align="center">Hola 👋, soy Leandro</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
+    <h3 align="center"-Estudie en el colegio José Manuel Belgrano.
+
+-Mis hobbies son dibujar y tocar la guitarra.
+
+-En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
+
+-Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
+
+-Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
         YouDevs.</h3>
 </div>
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
+    <a href="https://www.twitch.tv/lelanpapaya" target="_blank">
         <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
             alt="Twitch Badge" />
     </a>
