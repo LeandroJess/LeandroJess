@@ -23,25 +23,21 @@
         <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
             alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
+   
+ 
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 Me gusta leer libros de acción, suspenso y terror
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Estoy aprendiendo a programar en python 
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
-- 🌐 Website [youdevs.com](youdevs.com)
 
 
 <div align="left">
