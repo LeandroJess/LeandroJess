@@ -3,13 +3,6 @@
     <h1 align="center">Hola 👋, soy Leandro</h1>
     <h3 align="center"-Estudie en el colegio José Manuel Belgrano.
 
--Mis hobbies son dibujar y tocar la guitarra.
-
--En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
-
--Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
-
--Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
         YouDevs.</h3>
 </div>
 
@@ -31,39 +24,35 @@
 
 ### 👨‍💻 About Me :
 
+- 🎼 Mis hobbies son dibujar y tocar la guitarra.
+
+- 🏫 En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
+
+- 🦾 Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
+
+- 💻 Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
+
 - 📝 Me gusta leer libros de acción, suspenso y terror
 
 - 💬 Estoy aprendiendo a programar en python 
 
 - 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
 
+Habilidades: Cocinar huevito, dibujar y tocar guitarra.
+
+- 🌱 Estoy aprendiendo en la UCB Tarija 
+- 😄 Pronombres: Lelan 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/leandrojesus.rodriguezorozco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lexndro_jess04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matias.ma/nsfw/)  
 
 
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
 ---
 
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
