@@ -42,10 +42,15 @@
 
 - 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
 
+- 🌱 Estoy aprendiendo en la UCB Tarija
+
+- 😄 Pronombres: Lelan 
+
+---
+
 Habilidades: Cocinar huevito, dibujar y tocar guitarra.
 
-- 🌱 Estoy aprendiendo en la UCB Tarija 
-- 😄 Pronombres: Lelan 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/leandrojesus.rodriguezorozco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lexndro_jess04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matias.ma/nsfw/)  
@@ -53,7 +58,7 @@ Habilidades: Cocinar huevito, dibujar y tocar guitarra.
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Languajes que estoy aprendiendo:</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
