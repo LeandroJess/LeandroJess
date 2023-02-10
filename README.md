@@ -59,7 +59,7 @@ Habilidades: Cocinar huevito, dibujar y tocar guitarra.
 
 
 <div align="left">
-    <h3>🔨 Languajes que estoy aprendiendo:</h3>
+    <h3>🔨 Lenguajes que estoy aprendiendo:</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
