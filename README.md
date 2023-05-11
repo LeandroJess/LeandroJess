@@ -1,6 +1,7 @@
----
-<div id="header" align="center">
+
     [![zyro-image-1-png.jpg](https://i.postimg.cc/MKS9D9RJ/zyro-image-1-png.jpg)](https://postimg.cc/8sZdkBtZ)
+    
+    <div id="header" align="center">
     <h1 align="center">Hola 👋, soy Leandro</h1>
    </div>
 
@@ -61,4 +62,3 @@ Experiencia en Mantenimiento de Computadoras y Consolas:
 </div>
 
 ---
-[![zyro-image-1-png.jpg](https://i.postimg.cc/MKS9D9RJ/zyro-image-1-png.jpg)](https://postimg.cc/8sZdkBtZ)
