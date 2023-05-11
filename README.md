@@ -1,13 +1,7 @@
-    <div id="header" align="center">
-
-
-    [![zyro-image-1-png.jpg](https://i.postimg.cc/MKS9D9RJ/zyro-image-1-png.jpg)](https://postimg.cc/8sZdkBtZ)
-    
+---
+<div id="header" align="center"> 
+    <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="500" />
     <h1 align="center">Hola 👋, soy Leandro</h1>
-   </div>
-
-
-<div id="badges" align="center">
    
     
    
