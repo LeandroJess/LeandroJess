@@ -54,5 +54,12 @@ Experiencia en Mantenimiento de Computadoras y Consolas:
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
+<div align="left">
+    <h3>🔨 Mis codigos y programas:</h3>
+        https://github.com/SIS-111-2023-UCB-Paralelo-2/Leandro_Rodriguez
+      </div>
+</div>
 
+
+https://github.com/SIS-111-2023-UCB-Paralelo-2/Leandro_Rodriguez
 ---
