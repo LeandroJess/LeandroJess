@@ -60,6 +60,4 @@ Experiencia en Mantenimiento de Computadoras y Consolas:
       </div>
 </div>
 
-
-https://github.com/SIS-111-2023-UCB-Paralelo-2/Leandro_Rodriguez
 ---
