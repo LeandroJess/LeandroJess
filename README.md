@@ -15,10 +15,6 @@
 
 - 📚 Estudie en el colegio José Manuel Belgrano.
 
-- 🏫 En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
-
-- 🦾 Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
-
 - 💻 Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
 
 - 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
@@ -36,8 +32,7 @@ Experiencia en Mecatrónica:
 - Participación en programas de control y manejo de drones.
 - Curso de investigación científica sobre escritura de artículos científicos.
 - Participación en cursos de excel básico y aplicación en el análisis de datos.
-- Miembro de la Sociedad Científica de DCT, involucrado en proyectos innovadores.
-- Sed de conocimiento y constante búsqueda de oportunidades para aprender y crecer.
+- Miembro de la Sociedad Científica de DCT, involucrado en proyectos innovadores como ser una bicicleta como fuente de carga para celulares. 
 ---
 Experiencia en Mantenimiento de Computadoras y Consolas:
 
